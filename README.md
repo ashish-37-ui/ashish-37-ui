@@ -11,6 +11,7 @@ Ashish Sharma | Full-Stack Developer
 
 ### Frontend
 - Angular
+- React Js
 - TypeScript
 - HTML5
 - CSS3
@@ -20,10 +21,14 @@ Ashish Sharma | Full-Stack Developer
 - Java
 - Spring Boot
 - REST APIs
+- Node js
+- Go
 
 ### Database
 - PostgreSQL
 - MySQL
+- MONGO DB
+- SQL
 
 ### Tools & Platforms
 - Git & GitHub
